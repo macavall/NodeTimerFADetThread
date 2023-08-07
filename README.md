@@ -1,4 +1,4 @@
-# NodeTimerFADetThread
+# NodeTimerFADetachedThread
 Using Detached Thread for execution timing in Azure Time Function using Node.JS
 
 ## Detached Thread
